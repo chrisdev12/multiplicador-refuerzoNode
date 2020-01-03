@@ -1,0 +1,16 @@
+{
+  "name": "multiplicador",
+  "version": "1.0.0",
+  "description": "multiplicador-test",
+  "main": "app-bases.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Bravo",
+  "license": "ISC"
+}
